@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4187b3d5-10c2-4659-8de0-38823803e7fa": {
+      "ProjectGuid": "4187b3d5-10c2-4659-8de0-38823803e7fa",
+      "DisplayName": "Publisher",
+      "ColorIndex": 0
+    },
+    "6fc494aa-0760-4bd3-878c-4436f3e677a9": {
+      "ProjectGuid": "6fc494aa-0760-4bd3-878c-4436f3e677a9",
+      "DisplayName": "Subscriber",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

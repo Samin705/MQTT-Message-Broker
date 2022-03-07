@@ -1,0 +1,17 @@
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\Publisher.exe
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\Publisher.deps.json
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\Publisher.runtimeconfig.json
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\Publisher.dll
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\ref\Publisher.dll
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\Publisher.pdb
+G:\codemen\MQTT\Publisher\Publisher\bin\Debug\net6.0\MQTTnet.dll
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.csproj.AssemblyReference.cache
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.AssemblyInfoInputs.cache
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.AssemblyInfo.cs
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.csproj.CoreCompileInputs.cache
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.csproj.CopyComplete
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.dll
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\ref\Publisher.dll
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.pdb
+G:\codemen\MQTT\Publisher\Publisher\obj\Debug\net6.0\Publisher.genruntimeconfig.cache

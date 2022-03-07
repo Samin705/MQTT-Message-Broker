@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJBqPRum+gv/NEbLLhBczRMT7fuiYJj49VaGiKgDyIvgm3TGn4U0NM5sppfloK29SwbYpt+v3A81pPkAg9zUrQ==",
+  "success": true,
+  "projectFilePath": "G:\\codemen\\MQTT\\Publisher\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

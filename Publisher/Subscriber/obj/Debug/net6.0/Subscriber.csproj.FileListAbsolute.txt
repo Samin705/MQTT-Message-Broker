@@ -1,0 +1,17 @@
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\Subscriber.exe
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\Subscriber.deps.json
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\Subscriber.runtimeconfig.json
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\Subscriber.dll
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\ref\Subscriber.dll
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\Subscriber.pdb
+G:\codemen\MQTT\Publisher\Subscriber\bin\Debug\net6.0\MQTTnet.dll
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.csproj.AssemblyReference.cache
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfoInputs.cache
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfo.cs
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CoreCompileInputs.cache
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CopyComplete
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.dll
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\ref\Subscriber.dll
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.pdb
+G:\codemen\MQTT\Publisher\Subscriber\obj\Debug\net6.0\Subscriber.genruntimeconfig.cache
